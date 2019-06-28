@@ -1,5 +1,5 @@
 # chatbot
-----------------------------------Versao 2.0-------------------------------------
+Versão 2.0
 
 //STATEMENTS (mongodb integrado as categorias criadas)
 Uso do statements será prioridade na próxima versão, pois o código e o mongodb será
@@ -42,7 +42,6 @@ Função usar_chatbot() possui pergunta recorrente de uso. Na versão 2.0, otimi
 conversas mais longas e sem tantas interrupções.
 -> Aumentar o tempo de de conversa do chatbot sem interrupção.
 
----------------------------------------------------------------------------------
 
 
 
