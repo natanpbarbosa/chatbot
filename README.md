@@ -1,6 +1,5 @@
 # chatbot
-Projeto: Chatbot Personalizado
-O que é?: Criação de um chatbot que possibilite o usuário a criar perguntas/respostas de maneira intuitiva e simples.
+Projeto personalizado: Criação de um chatbot que possibilite o usuário a criar perguntas/respostas de maneira intuitiva e simples.
 
 Futura atualização (versão 2.0):
 
