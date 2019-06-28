@@ -1,5 +1,6 @@
 # chatbot
 ----------------------------------Versao 2.0-------------------------------------
+
 //STATEMENTS (mongodb integrado as categorias criadas)
 Uso do statements será prioridade na próxima versão, pois o código e o mongodb será
 totalmente integrado e, dessa forma, não será preciso a utilização de listas e dicionários
